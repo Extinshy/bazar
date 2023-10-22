@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'extinshybazarazurewebapp'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_ADAD4D5C499040A6B133992C1DDC79D9 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_FD9A39E14F4F4D6C926AF417ABDA859F }}
           package: .
